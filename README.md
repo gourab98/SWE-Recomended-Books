@@ -21,12 +21,20 @@ The links of the PDFs of the books that are recommended by Teachers at SUST SWE
 
 ## 1/2
 ### Data Structure
-* [Data Structures with C](/Books/2-1/Data-Structures-with-C.pdf)
+* [Data Structures with C](/Books/1-2/Data-Structures-with-C.pdf)
 
 ### Introduction to Software Engineering
-* [Software Engineering](/Books/2-1/Software-Engineering.pdf)
+* [Software Engineering](/Books/1-2/Software-Engineering.pdf)
 
 ## 2/1
+### Object Oriented Programming
+* [Java-The Complete Reference](/Books/2-1/Java-The-Complete-Reference.pdf)
+
+### Software Requirement Engineering
+* [Software Engineering](/Books/1-2/Software-Engineering.pdf)
+
+### Cost and Management Accounting
+* [Managerial Accounting](/Books/2-1/managerial-accounting-15th-edition.pdf)
 
 ## 2/2
 
