@@ -37,6 +37,11 @@ The links of the PDFs of the books that are recommended by Teachers at SUST SWE
 * [Managerial Accounting](/Books/2-1/managerial-accounting-15th-edition.pdf)
 
 ## 2/2
+### Algorithm Design & Analysis
+* [Introduction to Algorithms](/Books/2-2/Introduction_to_algorithms.pdf)
+
+### Operating Systems and System Programming
+* [Operating System Concepts](/Books/2-2/Operating-System-Concept.pdf)
 
 ## 3/1
 ### Software Architecture and Design Patterns
