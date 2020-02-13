@@ -46,9 +46,11 @@ The links of the PDFs of the books that are recommended by Teachers at SUST SWE
 ## 3/1
 ### Software Architecture and Design Patterns
 * [Head First Design Patterns](/Books/3-1/Head-First-Design-Patterns.pdf)
-
 * Pragmatic Programmers
 
+### Computer Networking
+* Data Communications and Networking
+* Computer Networking: A top-down approach
 
 ## 3/2
 
