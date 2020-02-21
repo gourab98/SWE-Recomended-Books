@@ -52,6 +52,9 @@ The links of the PDFs of the books that are recommended by Teachers at SUST SWE
 ### Operating Systems and System Programming
 * [Operating System Concepts](/Books/2-2/Operating-System-Concept.pdf)
 
+### Theory of Computation
+* [Introduction to Automata Theory](/Books/2-2/introduction-to-automata-theory.pdf)
+
 ## 3/1
 ### Software Architecture and Design Patterns
 * [Head First Design Patterns](/Books/3-1/Head-First-Design-Patterns.pdf)
