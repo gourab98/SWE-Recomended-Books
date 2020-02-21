@@ -58,6 +58,8 @@ The links of the PDFs of the books that are recommended by Teachers at SUST SWE
 ## 3/1
 ### Software Architecture and Design Patterns
 * [Head First Design Patterns](/Books/3-1/Head-First-Design-Patterns.pdf)
+* [Patterns of Enterprise Application Architecture](/Books/3-1/Patterns-of-Enterprise-Application-Architecture-Martin-Fowler.pdf)
+* [Design Patterns The Gang Of Four](/Books/3-1/Design-Patterns-The-Gang-Of-Four.pdf)
 * [Clean Code](/Books/3-1/Clean_Code.pdf)
 * [Pragmatic Programmers](/Books/3-1/Pragmatic_Programmers.mobi)
 
