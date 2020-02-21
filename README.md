@@ -1,4 +1,4 @@
-# SWE-Recomended-Books
+# SWE-Recommended-Books
 The links of the PDFs of the books that are recommended by Teachers at SUST SWE
 
 ## Contents
@@ -40,6 +40,7 @@ The links of the PDFs of the books that are recommended by Teachers at SUST SWE
 
 ### Computer Architecture
 * [Computer Architecture Slides](/Books/2-1/Computer-Architecture-Slides)
+* [MIPS Related Books](/Books/2-1/MIPS-Related-Books)
 
 ### Cost and Management Accounting
 * [Managerial Accounting](/Books/2-1/managerial-accounting-15th-edition.pdf)
