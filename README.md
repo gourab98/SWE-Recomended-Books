@@ -38,6 +38,9 @@ The links of the PDFs of the books that are recommended by Teachers at SUST SWE
 ### Software Requirement Engineering
 * [Software Engineering](/Books/1-2/Software-Engineering.pdf)
 
+### Computer Architecture
+* [Computer Architecture Slides](/Books/2-1/Computer-Architecture-Slides)
+
 ### Cost and Management Accounting
 * [Managerial Accounting](/Books/2-1/managerial-accounting-15th-edition.pdf)
 
