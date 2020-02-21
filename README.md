@@ -19,6 +19,10 @@ The links of the PDFs of the books that are recommended by Teachers at SUST SWE
 ### Discrete Mathematics
 * [Discrete Mathematics and It's Applications](/Books/1-1/Discrete-Mathematics-and-Its-Applications.pdf)
 
+### Basic Electrical and Electronic Circuits
+*[Fundamentals of Electric Circuits](Books/1-1/Fundamentals of Electric Circuits (5th Ed)(gnv64).pdf)
+*[Fundamentals of Electric Circuits Instructor Solutions Manual](/Books/1-1/Fundamentals-of-Electric-Circuits-Instructor-Solutions-Manual (5th Edition).pdf)
+
 ## 1/2
 ### Data Structure
 * [Data Structures with C](/Books/1-2/Data-Structures-with-C.pdf)
