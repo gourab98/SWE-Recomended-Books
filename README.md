@@ -52,8 +52,8 @@ The links of the PDFs of the books that are recommended by Teachers at SUST SWE
 ### Computer Networking
 * [Computer Networks - A Tanenbaum - 5th edition](Books/3-1/Computer%20Networks%20-%20A%20Tanenbaum%20-%205th%20edition.pdf)
 * [Computer Networks A Systems Approach – Peterson and](Books/3-1/Computer%20Networks%20A%20Systems%20Approach%20–%20Peterson%20and.pdf)
-* [Computer_Networking_A_Top-Down_Approach](Books/3-1/Computer_Networking_A_Top-Down_Approach.pdf)
-* [Data Communications and Networking By Behrouz A.Forouzan](Books/3-1/Data%20Communications%20and%20Networking%20By%20Behrouz%20A.Forouzan.pdf)
+* [Computer Networking A Top-Down Approach](Books/3-1/Computer_Networking_A_Top-Down_Approach.pdf)
+* [Data Communications and Networking By Behrouz A. Forouzan](Books/3-1/Data%20Communications%20and%20Networking%20By%20Behrouz%20A.Forouzan.pdf)
 
 ## 3/2
 
