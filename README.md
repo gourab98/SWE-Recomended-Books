@@ -28,7 +28,8 @@ The links of the PDFs of the books that are recommended by Teachers at SUST SWE
 * [Data Structures with C](/Books/1-2/Data-Structures-with-C.pdf)
 
 ### Introduction to Software Engineering
-* [Software Engineering](/Books/1-2/Software-Engineering.pdf)
+* [Software Engineering Book](/Books/1-2/Software-Engineering.pdf)
+* [Software Engineering Slides](Books/1-2/Introduction-to-Software-Engineering-slides)
 
 ## 2/1
 ### Object Oriented Programming
