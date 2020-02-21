@@ -62,6 +62,7 @@ The links of the PDFs of the books that are recommended by Teachers at SUST SWE
 * [Design Patterns The Gang Of Four](/Books/3-1/Design-Patterns-The-Gang-Of-Four.pdf)
 * [Clean Code](/Books/3-1/Clean_Code.pdf)
 * [Pragmatic Programmers](/Books/3-1/Pragmatic_Programmers.mobi)
+* [Design Patterns Slides](/Books/3-1/Design-Patterns-Slides)
 
 ### Computer Networking
 * [Computer Networks : A Tanenbaum - 5th edition](Books/3-1/Computer%20Networks%20-%20A%20Tanenbaum%20-%205th%20edition.pdf)
