@@ -64,6 +64,10 @@ The links of the PDFs of the books that are recommended by Teachers at SUST SWE
 * [Pragmatic Programmers](/Books/3-1/Pragmatic_Programmers.mobi)
 * [Design Patterns Slides](/Books/3-1/Design-Patterns-Slides)
 
+### Database Management System
+* [Database System Concepts 6th-edition](/Books/3-1/Database-System-Concepts-6th-edition.pdf)
+* [Database System Concepts Slides](/Books/3-1/Database-System-Concepts-Slides)
+
 ### Computer Networking
 * [Computer Networks : A Tanenbaum - 5th edition](Books/3-1/Computer%20Networks%20-%20A%20Tanenbaum%20-%205th%20edition.pdf)
 * [Computer Networks : A Systems Approach – Peterson and](Books/3-1/Computer%20Networks%20A%20Systems%20Approach%20–%20Peterson%20and.pdf)
