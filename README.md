@@ -74,6 +74,10 @@ The links of the PDFs of the books that are recommended by Teachers at SUST SWE
 * [Computer Networking : A Top-Down Approach](Books/3-1/Computer_Networking_A_Top-Down_Approach.pdf)
 * [Data Communications and Networking By Behrouz A. Forouzan](Books/3-1/Data%20Communications%20and%20Networking%20By%20Behrouz%20A.Forouzan.pdf)
 
+### Management Information System
+* [Management Information System: Laudon](/Books/3-1/Management-Information-System-Laudon.pdf)
+* [Management Information System Laudon Slides](/Books/3-1/Management-Information-System-Slides)
+
 ## 3/2
 
 ## 4/1
