@@ -84,7 +84,7 @@ The links of the PDFs of the books that are recommended by Teachers at SUST SWE
 * [Latex](/Books/3-2/Latex.pdf)
 
 ### Software Verification and Validation
-* [Software Testing Principles and Practices : Chauhan, Naresh](Books/3-2/Chauhan, Naresh - Software testing _ principles and practices-Oxford University Press (2010).pdf)
+* [Software Testing Principles and Practices : Chauhan, Naresh](Books/3-2/Chauhan, Naresh - Software testing _ principles and practices-Oxford University Press (2010).pdf]
 
 
 ## 4/1
