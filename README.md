@@ -88,7 +88,7 @@ The links of the PDFs of the books that are recommended by Teachers at SUST SWE
 
 ### Software Usability & Metrics
 * [Software Metrics- A Rigorous and Practical Approach : Norman E. Fenton,Shari Lawrence Pfleeger](Books/3-2/Fenton,Norman-SoftwareMetrics_A-Rigorous-and-Practical-Approach,Third Edition-CRC-Press.pdf)
-* [A Rigorous and Practical Approach,Third Edition : Fenton, Norman](/Books/3-2/Fenton,Norman-SoftwareMetrics_A-Rigorous-and-Practical-Approach,Third Edition-CRC-Press.pdf)
+* [A Rigorous and Practical Approach,Third Edition : Fenton, Norman](/Books/3-2/Fenton,Norman-SoftwareMetrics_A-Rigorous-and-Practical-Approach,ThirdEdition-CRC-Press.pdf)
 
 ## 4/1
 
