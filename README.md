@@ -87,8 +87,11 @@ The links of the PDFs of the books that are recommended by Teachers at SUST SWE
 * [Software Testing Principles and Practices : Chauhan, Naresh](/Books/3-2/Chauhan,Naresh-Software-testing-principles-and-practices-OxfordUniversity.pdf)
 
 ### Software Usability & Metrics
-* [Software Metrics- A Rigorous and Practical Approach : Norman E. Fenton,Shari Lawrence Pfleeger](/Books/3-2/Norman-E.-Fenton,Shari-Lawrence-Pfleeger-Software-Metrics_A-Rigorous-and-Practical-Approach,Revised-Course-Technology.pdf)
-* [A Rigorous and Practical Approach,Third Edition : Fenton, Norman](/Books/3-2/Fenton,Norman-SoftwareMetrics_A-Rigorous-and-Practical-Approach,ThirdEdition-CRC-Press.pdf)
+* [Software Metrics- A Rigorous and Practical Approach : Norman E. Fenton, Shari Lawrence Pfleeger](/Books/3-2/Norman-E.-Fenton,Shari-Lawrence-Pfleeger-Software-Metrics_A-Rigorous-and-Practical-Approach,Revised-Course-Technology.pdf)
+* [A Rigorous and Practical Approach, Third Edition : Fenton, Norman](/Books/3-2/Fenton,Norman-SoftwareMetrics_A-Rigorous-and-Practical-Approach,ThirdEdition-CRC-Press.pdf)
+
+### Entrepreneurship Development
+* [Entrepreneurship Successfully Launching New Ventures : Barringers](/Books/3-2/Barringers_s_Entrepreneurship_Successfully_Launching_New_Ventures.pdf)
 
 ## 4/1
 
