@@ -80,6 +80,10 @@ The links of the PDFs of the books that are recommended by Teachers at SUST SWE
 
 ## 3/2
 
+### Technical Writing
+* [Latex ](/Books/3-2/Latex.pdf)
+
+
 ## 4/1
 
 ## 4/2
