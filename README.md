@@ -73,6 +73,7 @@ The links of the PDFs of the books that are recommended by Teachers of Software 
 * [Computer Networks : A Systems Approach – Peterson and](Books/3-1/Computer%20Networks%20A%20Systems%20Approach%20–%20Peterson%20and.pdf)
 * [Computer Networking : A Top-Down Approach](Books/3-1/Computer_Networking_A_Top-Down_Approach.pdf)
 * [Data Communications and Networking By Behrouz A. Forouzan](Books/3-1/Data%20Communications%20and%20Networking%20By%20Behrouz%20A.Forouzan.pdf)
+* [Computer Network Class Notes](Books/3-1/Computer_Network_Class_Notes/)
 
 ### Management Information System
 * [Management Information System: Laudon](/Books/3-1/Management-Information-System-Laudon.pdf)
