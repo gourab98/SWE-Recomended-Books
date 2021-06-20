@@ -2,16 +2,20 @@ All Acronyms:
 https://www.activexperts.com/admin/network-acronyms/
 
 
-
+CIDR - Classless Inter-Domain Routing
+CLNS - Connectionless Network Service
+DHCP - Dynamic Host Configuration Protocol
 DNS - Domain Name Service
 DSL - Digital Subscriber Line
 FTP - File Transfer Protocol
 HTTP - HyperText Transfer Protocol
+ICANN - Internet Corporation for Assigned Names and Numbers
 IP - Internet Protocol
 IPV6 - revised version of IP (TCP/IP)
 IGMP - Internet Group Management Protocol
 LAN - Local Area Network
 NAP - Network Access Points
+NAT - Network Address Translation
 PPP - Point to Point Protocol
 UDP - User Datagram Protocol
 TCP - Transmission Control Protocol
@@ -21,4 +25,5 @@ SSH - Secure Socket Shell
 STP - Signal Transfer Point
 SMTP - Simple Mail Transfer Protocol
 SNMP - Simple Network Management Protocol
+VLSM - Variable Length Subnet Masks
 WWW - World Wide Web
