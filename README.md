@@ -1,5 +1,5 @@
 # SWE-Recommended-Books
-The links of the PDFs of the books that are recommended by Teachers at SUST SWE
+The links of the PDFs of the books that are recommended by Teachers of Software Engineering Department at SUST
 
 ## Contents
 * [1/1](#11)
