@@ -64,6 +64,10 @@ The links of the PDFs of the books that are recommended by Teachers of Software 
 * [Pragmatic Programmers](/Books/3-1/Pragmatic_Programmers.mobi)
 * [Design Patterns Slides](/Books/3-1/Design-Patterns-Slides)
 
+### Distributed System
+* [Hadoop: The Definitive Guide - Tom White](/Books/3-1/HadoopTheDefinitiveGuide.pdf)
+* [Distributed Systems Concepts and Design: George Coulouris, Jean Dollimore, and Tim Kindberg -5th-edition](/Books/3-1/george-coulouris-distributed-systems-concepts-and-design-5th-edition.pdf)
+
 ### Database Management System
 * [Database System Concepts 6th-edition](/Books/3-1/Database-System-Concepts-6th-edition.pdf)
 * [Database System Concepts Slides](/Books/3-1/Database-System-Concepts-Slides)
