@@ -100,6 +100,7 @@ The links of the PDFs of the books that are recommended by Teachers of Software 
 
 ### Computer Data Network Security
 * [Introduction to Computer Security : Matt Bishop](Books/3-2/Introduction-to-Computer-Security-pdf-Matt_Bishop.pdf)
+* [Computer Data Network Security Slides](SWE-Recomended-Books/Books/3-2/Computer-Data-Network-Security-Slides)
 
 
 ## 4/1
