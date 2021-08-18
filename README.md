@@ -94,6 +94,7 @@ The links of the PDFs of the books that are recommended by Teachers of Software 
 ### Software Usability & Metrics
 * [Software Metrics- A Rigorous and Practical Approach : Norman E. Fenton, Shari Lawrence Pfleeger](/Books/3-2/Norman-E.-Fenton,Shari-Lawrence-Pfleeger-Software-Metrics_A-Rigorous-and-Practical-Approach,Revised-Course-Technology.pdf)
 * [A Rigorous and Practical Approach, Third Edition : Fenton, Norman](/Books/3-2/Fenton,Norman-SoftwareMetrics_A-Rigorous-and-Practical-Approach,ThirdEdition-CRC-Press.pdf)
+* [Software_Measurement_and_Estimation_A_Practical_Approach](/Books/3-2/(Quantitative_Software_Engineering_Series)_Linda_M._Laird,_M._Carol_Brennan-Software_Measurement_and_Estimation_A_Practical_Approach-Wiley-IEEE_Computer_Society_Pr_(2006).pdf)
 
 ### Entrepreneurship Development
 * [Entrepreneurship Successfully Launching New Ventures : Barringers](/Books/3-2/Barringers_s_Entrepreneurship_Successfully_Launching_New_Ventures.pdf)
