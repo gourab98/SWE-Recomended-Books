@@ -110,7 +110,7 @@ The links of the PDFs of the books that are recommended by Teachers of Software 
 * [Report](/Books/4-1/2017831004_Internship_Report.pdf)
 
 ### Internship Presentation
-* [Presentation](/Books/4-1/Internship_Presenation(DreamAspect)-_Gourab_Saha_-_2017831004.pptx)
+* [Presentation](/Books/4-1/Internship_Presenation(DreamAspect)_Gourab Saha_2017831004.pptx)
 
 ## 4/2
 
