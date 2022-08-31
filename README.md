@@ -114,3 +114,12 @@ The links of the PDFs of the books that are recommended by Teachers of Software 
 
 ## 4/2
 
+### Artificial Intelligence
+* [Artificial Intelligence A Modern Approach](/Books/4-2/Artificial_Intelligence/Stuart_Russell_Peter_Norvig_Artificial_Intelligence_A_Modern_Approach-Prentice_Hall_(2010).pdf)
+* [Course Content In Slides](/Books/4-2/Artificial_Intelligence/Course_Content_In_Slides/)
+
+### Computer Graphics and Image Processing
+* [Theory and Problems of Computer Graphics](/Books/4-2/Computer_Graphics_and_Image_Processing/Theory_and_problems_of_computer_graphics-McGraw-Hill_(2000).pdf)
+
+### Software Project Management
+* [Software Project Management](/Books/4-2/Software_Project_Management/Software_Project_Management.pdf)
