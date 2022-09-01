@@ -87,7 +87,8 @@ The links of the PDFs of the books that are recommended by Teachers of Software 
 
 ### Introduction to DataScience
 * [OReilly Fundamentals of Deep Learning](/Books/3-2/Introduction_To_Data_Science/OReilly.Fundamentals.of.Deep.Learning.2017.5.pdf)
-* [Ian Goodfellow,Yoshua Bengio,Aaron Courville-Deep Learning](/Books/3-2/Introduction_To_Data_Science/Ian-Goodfellow_Yoshua-Bengio_Aaron_Courville-Deep_Learning.pdf)
+* [Ian Goodfellow, Yoshua Bengio, Aaron Courville-Deep Learning](/Books/3-2/Introduction_To_Data_Science/Ian-Goodfellow_Yoshua-Bengio_Aaron_Courville-Deep_Learning.pdf)
+* [Short PDF](/Books/3-2/Introduction_To_Data_Science/Short_PDF/)
 
 ### Technical Writing
 * [Latex](/Books/3-2/Latex.pdf)
