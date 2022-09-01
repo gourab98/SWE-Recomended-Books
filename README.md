@@ -85,6 +85,9 @@ The links of the PDFs of the books that are recommended by Teachers of Software 
 
 ## 3/2
 
+### Introduction to DataScience
+* [OReilly Fundamentals of Deep Learning](/Books/3-2/Introduction_To_Data_Science/OReilly.Fundamentals.of.Deep.Learning.2017.5.pdf)
+
 ### Technical Writing
 * [Latex](/Books/3-2/Latex.pdf)
 
