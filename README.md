@@ -130,3 +130,6 @@ The links of the PDFs of the books that are recommended by Teachers of Software 
 ### Software Project Management
 * [Software Project Management](/Books/4-2/Software_Project_Management/Software_Project_Management.pdf)
 * [Linda Isabell- Quality Software Project Management](/Books/4-2/Software_Project_Management/Futrell_Linda-Isabell_Quality_Software_Project_Management.pdf)
+
+### Machine Learning
+* [Machine Learning-A Probabilistic Perspective- Kevin, P.Murphy](/Books/4-2/Machine_Learning(Optional_Course)/Kevin-P.Murphy_Machine_Learning_A_Probabilistic_Perspective-2012.pdf)
