@@ -128,7 +128,7 @@ The links of the PDFs of the books that are recommended by Teachers of Software 
 * [Theory and Problems of Computer Graphics](/Books/4-2/Computer_Graphics_and_Image_Processing/Theory_and_problems_of_computer_graphics-McGraw-Hill_(2000).pdf)
 
 ### Software Project Management
-* [Software Project Management](/Books/4-2/Software_Project_Management/Software_Project_Management.pdf)
+* [Software Project Management](/Books/4-2/Software_Project_Management/SPM.pdf)
 * [Linda Isabell- Quality Software Project Management](/Books/4-2/Software_Project_Management/Futrell_Linda-Isabell_Quality_Software_Project_Management.pdf)
 
 ### Machine Learning
